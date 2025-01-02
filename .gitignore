@@ -1,0 +1,5 @@
+# Ignore node_modules and Python virtual environment
+node_modules/
+venv/
+.env
+__pycache__/
